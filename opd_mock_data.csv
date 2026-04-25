@@ -1,0 +1,1001 @@
+Date,Day_of_Week,Arrival_Time,Service_Type,Branch,Queue_Size,Total_OPD_Time_Mins
+12/6/2025,Thursday,09:00 - 10:00,Minor Procedures,Branch 1,11,217
+28/3/2026,Saturday,16:00 - 17:00,Obstetrics & Gynecology,Branch 2,8,135
+18/2/2026,Wednesday,09:00 - 10:00,Lab Services,Branch 3,7,179
+12/9/2025,Friday,08:00 - 09:00,Dermatology,Branch 2,6,131
+16/12/2025,Tuesday,16:00 - 17:00,Pediatrics,Branch 3,13,256
+23/11/2025,Sunday,09:00 - 10:00,General Consultation,Branch 1,7,163
+3/5/2025,Saturday,16:00 - 17:00,Cardiology,Branch 3,1,138
+15/10/2025,Wednesday,10:00 - 11:00,Orthopedics,Branch 3,3,142
+26/12/2025,Friday,10:00 - 11:00,Orthopedics,Branch 1,4,141
+20/7/2025,Sunday,16:00 - 17:00,Pediatrics,Branch 2,12,188
+27/11/2025,Thursday,16:00 - 17:00,Pediatrics,Branch 3,11,234
+24/4/2025,Thursday,08:00 - 09:00,Pediatrics,Branch 2,5,104
+21/7/2025,Monday,10:00 - 11:00,Minor Procedures,Branch 2,12,195
+20/1/2026,Tuesday,11:00 - 12:00,General Consultation,Branch 3,11,222
+22/8/2025,Friday,15:00 - 16:00,Lab Services,Branch 1,7,150
+25/4/2025,Friday,13:00 - 14:00,General Consultation,Branch 1,6,150
+31/7/2025,Thursday,09:00 - 10:00,Obstetrics & Gynecology,Branch 2,4,103
+27/6/2025,Friday,13:00 - 14:00,Orthopedics,Branch 3,10,230
+4/5/2025,Sunday,14:00 - 15:00,Obstetrics & Gynecology,Branch 1,12,216
+26/5/2025,Monday,11:00 - 12:00,General Consultation,Branch 2,15,212
+10/4/2026,Friday,13:00 - 14:00,Cardiology,Branch 1,15,240
+22/3/2026,Sunday,09:00 - 10:00,General Consultation,Branch 3,1,144
+19/8/2025,Tuesday,11:00 - 12:00,Pediatrics,Branch 2,7,143
+7/2/2026,Saturday,16:00 - 17:00,Lab Services,Branch 1,9,157
+16/3/2026,Monday,08:00 - 09:00,Dermatology,Branch 1,11,185
+7/5/2025,Wednesday,08:00 - 09:00,Cardiology,Branch 1,3,123
+22/7/2025,Tuesday,09:00 - 10:00,General Consultation,Branch 3,0,116
+8/2/2026,Sunday,15:00 - 16:00,General Consultation,Branch 2,5,118
+23/11/2025,Sunday,14:00 - 15:00,Obstetrics & Gynecology,Branch 2,9,137
+3/4/2026,Friday,10:00 - 11:00,Orthopedics,Branch 2,11,182
+9/7/2025,Wednesday,08:00 - 09:00,Pediatrics,Branch 1,0,104
+27/5/2025,Tuesday,15:00 - 16:00,General Consultation,Branch 1,2,104
+25/12/2025,Thursday,16:00 - 17:00,Pediatrics,Branch 1,0,102
+6/7/2025,Sunday,10:00 - 11:00,Orthopedics,Branch 1,7,149
+6/8/2025,Wednesday,10:00 - 11:00,Pediatrics,Branch 2,8,145
+24/8/2025,Sunday,09:00 - 10:00,General Consultation,Branch 2,7,120
+12/11/2025,Wednesday,10:00 - 11:00,Orthopedics,Branch 3,6,173
+5/12/2025,Friday,14:00 - 15:00,Obstetrics & Gynecology,Branch 3,4,162
+8/6/2025,Sunday,13:00 - 14:00,Lab Services,Branch 3,5,147
+19/9/2025,Friday,16:00 - 17:00,Dermatology,Branch 2,1,70
+29/8/2025,Friday,09:00 - 10:00,Dermatology,Branch 1,6,141
+28/1/2026,Wednesday,10:00 - 11:00,Cardiology,Branch 3,8,210
+27/11/2025,Thursday,09:00 - 10:00,Minor Procedures,Branch 3,0,144
+10/4/2026,Friday,13:00 - 14:00,Cardiology,Branch 2,2,85
+26/2/2026,Thursday,11:00 - 12:00,Orthopedics,Branch 2,4,89
+30/4/2025,Wednesday,11:00 - 12:00,Pediatrics,Branch 1,8,183
+8/4/2026,Wednesday,11:00 - 12:00,Obstetrics & Gynecology,Branch 3,11,222
+12/4/2026,Sunday,08:00 - 09:00,Lab Services,Branch 2,0,32
+4/11/2025,Tuesday,11:00 - 12:00,General Consultation,Branch 2,8,144
+11/12/2025,Thursday,09:00 - 10:00,General Consultation,Branch 2,1,68
+4/5/2025,Sunday,10:00 - 11:00,Pediatrics,Branch 2,8,128
+5/4/2026,Sunday,14:00 - 15:00,Cardiology,Branch 1,7,159
+28/3/2026,Saturday,14:00 - 15:00,Cardiology,Branch 1,15,243
+20/8/2025,Wednesday,13:00 - 14:00,Dermatology,Branch 1,12,211
+15/1/2026,Thursday,10:00 - 11:00,Orthopedics,Branch 2,8,126
+14/10/2025,Tuesday,08:00 - 09:00,General Consultation,Branch 1,9,193
+28/9/2025,Sunday,09:00 - 10:00,Dermatology,Branch 1,15,243
+10/4/2026,Friday,16:00 - 17:00,Orthopedics,Branch 2,14,202
+18/2/2026,Wednesday,15:00 - 16:00,Orthopedics,Branch 1,8,160
+8/5/2025,Thursday,08:00 - 09:00,Minor Procedures,Branch 3,0,141
+22/4/2026,Wednesday,16:00 - 17:00,Lab Services,Branch 3,15,267
+15/11/2025,Saturday,14:00 - 15:00,Minor Procedures,Branch 2,7,161
+15/4/2026,Wednesday,09:00 - 10:00,General Consultation,Branch 2,13,198
+25/5/2025,Sunday,08:00 - 09:00,Pediatrics,Branch 3,5,166
+24/9/2025,Wednesday,09:00 - 10:00,Minor Procedures,Branch 1,11,229
+2/11/2025,Sunday,11:00 - 12:00,General Consultation,Branch 2,2,75
+30/6/2025,Monday,16:00 - 17:00,Cardiology,Branch 3,11,232
+21/9/2025,Sunday,08:00 - 09:00,Orthopedics,Branch 1,11,213
+9/8/2025,Saturday,10:00 - 11:00,Pediatrics,Branch 2,10,152
+29/4/2025,Tuesday,11:00 - 12:00,Lab Services,Branch 2,5,96
+4/1/2026,Sunday,11:00 - 12:00,Minor Procedures,Branch 1,11,224
+29/3/2026,Sunday,15:00 - 16:00,Minor Procedures,Branch 3,3,170
+4/12/2025,Thursday,08:00 - 09:00,Pediatrics,Branch 2,1,70
+17/1/2026,Saturday,08:00 - 09:00,Cardiology,Branch 2,3,90
+12/5/2025,Monday,08:00 - 09:00,Orthopedics,Branch 2,10,175
+1/11/2025,Saturday,16:00 - 17:00,Obstetrics & Gynecology,Branch 1,1,114
+13/3/2026,Friday,08:00 - 09:00,General Consultation,Branch 3,11,218
+24/9/2025,Wednesday,15:00 - 16:00,Cardiology,Branch 1,12,221
+23/5/2025,Friday,11:00 - 12:00,Cardiology,Branch 2,8,141
+20/9/2025,Saturday,10:00 - 11:00,Pediatrics,Branch 3,3,146
+30/8/2025,Saturday,14:00 - 15:00,Orthopedics,Branch 1,11,210
+2/6/2025,Monday,13:00 - 14:00,Minor Procedures,Branch 1,7,183
+30/10/2025,Thursday,16:00 - 17:00,General Consultation,Branch 2,6,120
+27/4/2025,Sunday,09:00 - 10:00,Dermatology,Branch 2,10,157
+1/8/2025,Friday,14:00 - 15:00,Minor Procedures,Branch 3,11,255
+22/6/2025,Sunday,10:00 - 11:00,Minor Procedures,Branch 2,13,205
+1/8/2025,Friday,14:00 - 15:00,Dermatology,Branch 2,14,212
+28/1/2026,Wednesday,14:00 - 15:00,Dermatology,Branch 2,4,105
+24/3/2026,Tuesday,15:00 - 16:00,Minor Procedures,Branch 2,7,141
+22/10/2025,Wednesday,15:00 - 16:00,Dermatology,Branch 2,6,110
+15/12/2025,Monday,15:00 - 16:00,Cardiology,Branch 1,12,199
+26/4/2025,Saturday,16:00 - 17:00,Obstetrics & Gynecology,Branch 1,2,101
+21/5/2025,Wednesday,16:00 - 17:00,General Consultation,Branch 3,6,186
+18/10/2025,Saturday,10:00 - 11:00,Minor Procedures,Branch 1,11,232
+26/7/2025,Saturday,08:00 - 09:00,Pediatrics,Branch 1,3,119
+1/10/2025,Wednesday,10:00 - 11:00,Pediatrics,Branch 2,9,148
+15/7/2025,Tuesday,09:00 - 10:00,Lab Services,Branch 3,0,96
+23/1/2026,Friday,13:00 - 14:00,Obstetrics & Gynecology,Branch 1,2,98
+29/10/2025,Wednesday,08:00 - 09:00,Obstetrics & Gynecology,Branch 1,15,247
+14/2/2026,Saturday,15:00 - 16:00,Obstetrics & Gynecology,Branch 2,1,76
+4/11/2025,Tuesday,10:00 - 11:00,Lab Services,Branch 1,5,119
+3/10/2025,Friday,11:00 - 12:00,Dermatology,Branch 1,5,152
+4/6/2025,Wednesday,09:00 - 10:00,Cardiology,Branch 2,13,202
+4/9/2025,Thursday,16:00 - 17:00,Lab Services,Branch 3,9,207
+22/9/2025,Monday,09:00 - 10:00,Minor Procedures,Branch 1,12,238
+29/3/2026,Sunday,10:00 - 11:00,Orthopedics,Branch 3,5,178
+29/8/2025,Friday,08:00 - 09:00,General Consultation,Branch 2,4,90
+21/6/2025,Saturday,14:00 - 15:00,Obstetrics & Gynecology,Branch 1,9,171
+24/8/2025,Sunday,16:00 - 17:00,Minor Procedures,Branch 3,8,226
+16/8/2025,Saturday,11:00 - 12:00,Obstetrics & Gynecology,Branch 2,9,160
+28/12/2025,Sunday,13:00 - 14:00,Orthopedics,Branch 2,11,175
+2/12/2025,Tuesday,14:00 - 15:00,Minor Procedures,Branch 1,11,224
+8/9/2025,Monday,16:00 - 17:00,Lab Services,Branch 1,13,200
+5/2/2026,Thursday,15:00 - 16:00,Lab Services,Branch 1,0,70
+9/10/2025,Thursday,11:00 - 12:00,Minor Procedures,Branch 3,8,212
+13/7/2025,Sunday,16:00 - 17:00,General Consultation,Branch 2,10,160
+11/10/2025,Saturday,13:00 - 14:00,General Consultation,Branch 2,3,96
+29/9/2025,Monday,09:00 - 10:00,Orthopedics,Branch 1,5,127
+4/3/2026,Wednesday,11:00 - 12:00,Orthopedics,Branch 3,5,164
+28/3/2026,Saturday,13:00 - 14:00,Lab Services,Branch 2,3,69
+7/4/2026,Tuesday,14:00 - 15:00,Orthopedics,Branch 3,11,236
+24/7/2025,Thursday,13:00 - 14:00,General Consultation,Branch 1,1,87
+16/3/2026,Monday,09:00 - 10:00,Minor Procedures,Branch 2,10,187
+4/7/2025,Friday,11:00 - 12:00,Obstetrics & Gynecology,Branch 2,12,190
+1/7/2025,Tuesday,13:00 - 14:00,Obstetrics & Gynecology,Branch 1,0,84
+12/9/2025,Friday,15:00 - 16:00,General Consultation,Branch 3,6,194
+9/3/2026,Monday,14:00 - 15:00,Lab Services,Branch 2,0,43
+26/6/2025,Thursday,15:00 - 16:00,Lab Services,Branch 3,14,241
+12/11/2025,Wednesday,08:00 - 09:00,General Consultation,Branch 3,11,218
+4/12/2025,Thursday,16:00 - 17:00,Lab Services,Branch 2,7,128
+26/9/2025,Friday,09:00 - 10:00,Cardiology,Branch 2,1,63
+21/9/2025,Sunday,10:00 - 11:00,Obstetrics & Gynecology,Branch 3,1,124
+20/12/2025,Saturday,11:00 - 12:00,Lab Services,Branch 3,5,166
+11/5/2025,Sunday,10:00 - 11:00,Cardiology,Branch 2,5,106
+28/6/2025,Saturday,14:00 - 15:00,Cardiology,Branch 2,3,104
+3/10/2025,Friday,13:00 - 14:00,Minor Procedures,Branch 3,12,266
+30/5/2025,Friday,15:00 - 16:00,Dermatology,Branch 1,14,221
+20/8/2025,Wednesday,13:00 - 14:00,Cardiology,Branch 2,11,167
+8/4/2026,Wednesday,16:00 - 17:00,Lab Services,Branch 1,13,215
+30/12/2025,Tuesday,15:00 - 16:00,Orthopedics,Branch 2,1,78
+9/7/2025,Wednesday,08:00 - 09:00,General Consultation,Branch 2,10,160
+4/10/2025,Saturday,10:00 - 11:00,Cardiology,Branch 1,6,163
+27/7/2025,Sunday,16:00 - 17:00,Orthopedics,Branch 3,9,211
+24/10/2025,Friday,08:00 - 09:00,General Consultation,Branch 2,4,101
+3/2/2026,Tuesday,14:00 - 15:00,General Consultation,Branch 1,12,215
+17/1/2026,Saturday,13:00 - 14:00,Obstetrics & Gynecology,Branch 2,1,56
+24/1/2026,Saturday,09:00 - 10:00,Cardiology,Branch 3,5,184
+3/10/2025,Friday,16:00 - 17:00,Cardiology,Branch 1,13,222
+17/5/2025,Saturday,08:00 - 09:00,Pediatrics,Branch 1,7,147
+4/5/2025,Sunday,14:00 - 15:00,Obstetrics & Gynecology,Branch 2,13,176
+22/1/2026,Thursday,13:00 - 14:00,Lab Services,Branch 2,7,104
+20/7/2025,Sunday,10:00 - 11:00,General Consultation,Branch 2,14,198
+24/7/2025,Thursday,09:00 - 10:00,Cardiology,Branch 3,5,185
+17/9/2025,Wednesday,15:00 - 16:00,Orthopedics,Branch 3,11,234
+4/11/2025,Tuesday,15:00 - 16:00,Dermatology,Branch 1,0,100
+11/10/2025,Saturday,08:00 - 09:00,Pediatrics,Branch 3,7,189
+1/8/2025,Friday,08:00 - 09:00,Minor Procedures,Branch 2,12,195
+22/11/2025,Saturday,09:00 - 10:00,Pediatrics,Branch 2,6,126
+22/4/2026,Wednesday,14:00 - 15:00,Pediatrics,Branch 3,1,133
+15/9/2025,Monday,10:00 - 11:00,Obstetrics & Gynecology,Branch 2,4,90
+6/4/2026,Monday,11:00 - 12:00,Obstetrics & Gynecology,Branch 1,5,129
+15/2/2026,Sunday,13:00 - 14:00,Orthopedics,Branch 3,0,127
+2/9/2025,Tuesday,14:00 - 15:00,Pediatrics,Branch 3,2,151
+21/8/2025,Thursday,10:00 - 11:00,General Consultation,Branch 2,0,54
+11/4/2026,Saturday,15:00 - 16:00,Cardiology,Branch 2,1,65
+13/8/2025,Wednesday,14:00 - 15:00,Lab Services,Branch 1,15,237
+11/10/2025,Saturday,11:00 - 12:00,Pediatrics,Branch 1,13,208
+31/10/2025,Friday,13:00 - 14:00,Lab Services,Branch 2,13,165
+13/2/2026,Friday,14:00 - 15:00,Lab Services,Branch 3,14,257
+19/1/2026,Monday,08:00 - 09:00,Pediatrics,Branch 2,1,81
+10/9/2025,Wednesday,15:00 - 16:00,Lab Services,Branch 2,12,175
+30/8/2025,Saturday,15:00 - 16:00,Minor Procedures,Branch 1,0,102
+4/7/2025,Friday,14:00 - 15:00,Cardiology,Branch 2,6,132
+21/4/2026,Tuesday,14:00 - 15:00,Cardiology,Branch 1,12,215
+21/2/2026,Saturday,13:00 - 14:00,Minor Procedures,Branch 3,13,271
+27/7/2025,Sunday,10:00 - 11:00,Pediatrics,Branch 3,1,119
+15/10/2025,Wednesday,14:00 - 15:00,Cardiology,Branch 2,3,97
+12/8/2025,Tuesday,08:00 - 09:00,Minor Procedures,Branch 2,11,206
+29/1/2026,Thursday,16:00 - 17:00,Pediatrics,Branch 1,11,215
+30/10/2025,Thursday,10:00 - 11:00,Pediatrics,Branch 2,1,65
+25/7/2025,Friday,15:00 - 16:00,General Consultation,Branch 3,3,162
+16/4/2026,Thursday,11:00 - 12:00,Orthopedics,Branch 3,13,247
+9/8/2025,Saturday,10:00 - 11:00,Obstetrics & Gynecology,Branch 2,2,81
+22/7/2025,Tuesday,11:00 - 12:00,Dermatology,Branch 2,0,48
+21/5/2025,Wednesday,15:00 - 16:00,Obstetrics & Gynecology,Branch 1,6,141
+1/6/2025,Sunday,16:00 - 17:00,General Consultation,Branch 2,9,155
+29/7/2025,Tuesday,08:00 - 09:00,Orthopedics,Branch 2,4,95
+28/3/2026,Saturday,09:00 - 10:00,General Consultation,Branch 1,5,134
+8/4/2026,Wednesday,11:00 - 12:00,Cardiology,Branch 3,0,117
+18/7/2025,Friday,16:00 - 17:00,Obstetrics & Gynecology,Branch 3,14,247
+17/7/2025,Thursday,15:00 - 16:00,Lab Services,Branch 2,8,134
+2/6/2025,Monday,11:00 - 12:00,General Consultation,Branch 2,4,112
+23/4/2026,Thursday,08:00 - 09:00,Lab Services,Branch 1,12,203
+28/1/2026,Wednesday,09:00 - 10:00,General Consultation,Branch 3,4,171
+9/7/2025,Wednesday,08:00 - 09:00,Pediatrics,Branch 2,2,71
+1/12/2025,Monday,11:00 - 12:00,General Consultation,Branch 2,4,103
+10/1/2026,Saturday,11:00 - 12:00,Cardiology,Branch 1,2,99
+18/10/2025,Saturday,16:00 - 17:00,General Consultation,Branch 2,15,199
+24/11/2025,Monday,11:00 - 12:00,Orthopedics,Branch 3,0,133
+6/8/2025,Wednesday,14:00 - 15:00,General Consultation,Branch 2,5,110
+3/2/2026,Tuesday,09:00 - 10:00,Cardiology,Branch 3,2,128
+3/6/2025,Tuesday,16:00 - 17:00,Obstetrics & Gynecology,Branch 1,13,210
+20/11/2025,Thursday,14:00 - 15:00,General Consultation,Branch 3,13,242
+20/2/2026,Friday,14:00 - 15:00,Orthopedics,Branch 1,6,161
+4/5/2025,Sunday,09:00 - 10:00,Cardiology,Branch 2,11,179
+8/3/2026,Sunday,14:00 - 15:00,Lab Services,Branch 2,11,159
+27/3/2026,Friday,15:00 - 16:00,Obstetrics & Gynecology,Branch 1,13,227
+19/7/2025,Saturday,08:00 - 09:00,Obstetrics & Gynecology,Branch 2,11,177
+9/9/2025,Tuesday,10:00 - 11:00,General Consultation,Branch 2,15,196
+16/2/2026,Monday,15:00 - 16:00,Cardiology,Branch 2,15,195
+7/10/2025,Tuesday,08:00 - 09:00,General Consultation,Branch 3,15,275
+9/3/2026,Monday,15:00 - 16:00,Cardiology,Branch 2,13,201
+13/3/2026,Friday,14:00 - 15:00,Pediatrics,Branch 1,11,191
+27/11/2025,Thursday,11:00 - 12:00,Cardiology,Branch 3,1,118
+27/2/2026,Friday,13:00 - 14:00,Orthopedics,Branch 3,0,124
+15/5/2025,Thursday,13:00 - 14:00,Dermatology,Branch 2,13,204
+28/6/2025,Saturday,10:00 - 11:00,Cardiology,Branch 3,9,221
+10/2/2026,Tuesday,14:00 - 15:00,Minor Procedures,Branch 1,10,212
+26/6/2025,Thursday,11:00 - 12:00,Dermatology,Branch 2,4,104
+16/3/2026,Monday,16:00 - 17:00,Obstetrics & Gynecology,Branch 2,5,105
+23/7/2025,Wednesday,15:00 - 16:00,General Consultation,Branch 2,4,88
+14/9/2025,Sunday,15:00 - 16:00,Pediatrics,Branch 3,7,181
+1/10/2025,Wednesday,13:00 - 14:00,Pediatrics,Branch 1,6,143
+1/11/2025,Saturday,11:00 - 12:00,Lab Services,Branch 3,3,133
+9/8/2025,Saturday,16:00 - 17:00,Obstetrics & Gynecology,Branch 1,2,115
+28/8/2025,Thursday,14:00 - 15:00,Pediatrics,Branch 3,5,159
+17/2/2026,Tuesday,15:00 - 16:00,General Consultation,Branch 3,2,155
+13/1/2026,Tuesday,09:00 - 10:00,Dermatology,Branch 2,9,144
+15/4/2026,Wednesday,08:00 - 09:00,Minor Procedures,Branch 1,10,201
+23/5/2025,Friday,15:00 - 16:00,Orthopedics,Branch 3,7,204
+29/1/2026,Thursday,11:00 - 12:00,Pediatrics,Branch 1,11,214
+9/4/2026,Thursday,10:00 - 11:00,Orthopedics,Branch 1,1,109
+20/5/2025,Tuesday,08:00 - 09:00,General Consultation,Branch 2,5,96
+29/10/2025,Wednesday,16:00 - 17:00,Pediatrics,Branch 1,0,85
+6/12/2025,Saturday,09:00 - 10:00,Pediatrics,Branch 1,3,124
+8/2/2026,Sunday,13:00 - 14:00,Pediatrics,Branch 1,7,164
+2/4/2026,Thursday,11:00 - 12:00,Orthopedics,Branch 3,15,269
+5/7/2025,Saturday,14:00 - 15:00,General Consultation,Branch 1,2,115
+9/7/2025,Wednesday,09:00 - 10:00,Minor Procedures,Branch 1,15,279
+10/10/2025,Friday,16:00 - 17:00,Pediatrics,Branch 1,11,214
+26/6/2025,Thursday,16:00 - 17:00,Cardiology,Branch 3,10,213
+1/5/2025,Thursday,14:00 - 15:00,Minor Procedures,Branch 3,15,299
+27/10/2025,Monday,13:00 - 14:00,Pediatrics,Branch 2,5,105
+14/3/2026,Saturday,08:00 - 09:00,Minor Procedures,Branch 1,1,123
+3/4/2026,Friday,10:00 - 11:00,Orthopedics,Branch 3,11,218
+25/10/2025,Saturday,09:00 - 10:00,Pediatrics,Branch 1,4,123
+12/3/2026,Thursday,14:00 - 15:00,Pediatrics,Branch 2,14,210
+18/7/2025,Friday,13:00 - 14:00,Pediatrics,Branch 3,6,182
+8/2/2026,Sunday,09:00 - 10:00,Pediatrics,Branch 1,0,105
+28/4/2025,Monday,08:00 - 09:00,Obstetrics & Gynecology,Branch 2,14,211
+12/10/2025,Sunday,09:00 - 10:00,Lab Services,Branch 3,1,107
+24/10/2025,Friday,11:00 - 12:00,Dermatology,Branch 1,12,219
+5/4/2026,Sunday,09:00 - 10:00,Obstetrics & Gynecology,Branch 2,0,46
+16/7/2025,Wednesday,11:00 - 12:00,Cardiology,Branch 2,8,147
+10/7/2025,Thursday,11:00 - 12:00,Lab Services,Branch 2,11,149
+15/3/2026,Sunday,09:00 - 10:00,Obstetrics & Gynecology,Branch 3,0,125
+22/1/2026,Thursday,15:00 - 16:00,Orthopedics,Branch 1,7,160
+20/12/2025,Saturday,11:00 - 12:00,Pediatrics,Branch 1,9,194
+20/8/2025,Wednesday,08:00 - 09:00,Cardiology,Branch 2,7,127
+4/12/2025,Thursday,13:00 - 14:00,Minor Procedures,Branch 3,11,256
+7/3/2026,Saturday,16:00 - 17:00,Minor Procedures,Branch 2,2,100
+1/12/2025,Monday,10:00 - 11:00,Dermatology,Branch 1,6,145
+17/5/2025,Saturday,15:00 - 16:00,General Consultation,Branch 1,7,150
+7/4/2026,Tuesday,11:00 - 12:00,Obstetrics & Gynecology,Branch 3,13,259
+1/8/2025,Friday,15:00 - 16:00,Lab Services,Branch 3,3,132
+27/8/2025,Wednesday,16:00 - 17:00,General Consultation,Branch 3,2,141
+12/7/2025,Saturday,14:00 - 15:00,Pediatrics,Branch 2,10,157
+11/9/2025,Thursday,10:00 - 11:00,Obstetrics & Gynecology,Branch 1,11,198
+18/12/2025,Thursday,11:00 - 12:00,Dermatology,Branch 3,13,236
+2/6/2025,Monday,08:00 - 09:00,General Consultation,Branch 1,1,115
+5/7/2025,Saturday,16:00 - 17:00,Dermatology,Branch 1,8,177
+13/1/2026,Tuesday,10:00 - 11:00,Minor Procedures,Branch 3,1,155
+3/8/2025,Sunday,13:00 - 14:00,Cardiology,Branch 3,12,225
+10/6/2025,Tuesday,15:00 - 16:00,Orthopedics,Branch 1,13,210
+29/6/2025,Sunday,16:00 - 17:00,Orthopedics,Branch 2,12,178
+15/7/2025,Tuesday,13:00 - 14:00,Obstetrics & Gynecology,Branch 1,12,202
+28/10/2025,Tuesday,16:00 - 17:00,Lab Services,Branch 2,15,205
+6/1/2026,Tuesday,09:00 - 10:00,Pediatrics,Branch 2,14,194
+28/11/2025,Friday,14:00 - 15:00,Obstetrics & Gynecology,Branch 1,10,200
+29/10/2025,Wednesday,13:00 - 14:00,Pediatrics,Branch 2,14,211
+20/12/2025,Saturday,10:00 - 11:00,Orthopedics,Branch 3,9,208
+17/7/2025,Thursday,15:00 - 16:00,Orthopedics,Branch 2,14,195
+12/12/2025,Friday,10:00 - 11:00,Dermatology,Branch 1,10,193
+17/5/2025,Saturday,13:00 - 14:00,Obstetrics & Gynecology,Branch 3,5,160
+7/1/2026,Wednesday,11:00 - 12:00,General Consultation,Branch 1,1,97
+4/4/2026,Saturday,09:00 - 10:00,Dermatology,Branch 3,3,145
+4/10/2025,Saturday,13:00 - 14:00,Lab Services,Branch 1,4,112
+30/6/2025,Monday,09:00 - 10:00,General Consultation,Branch 2,0,60
+28/10/2025,Tuesday,11:00 - 12:00,Pediatrics,Branch 2,8,130
+5/3/2026,Thursday,08:00 - 09:00,Orthopedics,Branch 3,0,128
+11/6/2025,Wednesday,08:00 - 09:00,Cardiology,Branch 3,5,173
+6/6/2025,Friday,15:00 - 16:00,Pediatrics,Branch 1,11,201
+26/4/2025,Saturday,09:00 - 10:00,Cardiology,Branch 3,6,170
+5/6/2025,Thursday,10:00 - 11:00,Obstetrics & Gynecology,Branch 3,7,186
+4/12/2025,Thursday,11:00 - 12:00,Minor Procedures,Branch 3,5,193
+15/3/2026,Sunday,15:00 - 16:00,Obstetrics & Gynecology,Branch 3,8,188
+24/4/2025,Thursday,10:00 - 11:00,Orthopedics,Branch 2,0,56
+24/12/2025,Wednesday,11:00 - 12:00,Obstetrics & Gynecology,Branch 1,1,111
+16/3/2026,Monday,10:00 - 11:00,Pediatrics,Branch 1,11,203
+9/6/2025,Monday,11:00 - 12:00,Cardiology,Branch 3,15,274
+27/2/2026,Friday,13:00 - 14:00,Pediatrics,Branch 1,7,158
+16/11/2025,Sunday,09:00 - 10:00,General Consultation,Branch 1,5,147
+12/12/2025,Friday,11:00 - 12:00,General Consultation,Branch 3,10,235
+29/4/2025,Tuesday,14:00 - 15:00,Lab Services,Branch 3,8,186
+22/3/2026,Sunday,09:00 - 10:00,Minor Procedures,Branch 2,11,185
+29/11/2025,Saturday,11:00 - 12:00,Dermatology,Branch 3,5,182
+3/9/2025,Wednesday,09:00 - 10:00,Orthopedics,Branch 3,5,168
+4/3/2026,Wednesday,15:00 - 16:00,Dermatology,Branch 2,15,219
+26/4/2025,Saturday,09:00 - 10:00,Minor Procedures,Branch 3,9,241
+15/6/2025,Sunday,09:00 - 10:00,Pediatrics,Branch 1,12,205
+25/6/2025,Wednesday,11:00 - 12:00,General Consultation,Branch 3,2,154
+10/8/2025,Sunday,10:00 - 11:00,Lab Services,Branch 1,10,167
+28/5/2025,Wednesday,15:00 - 16:00,Lab Services,Branch 2,10,136
+28/10/2025,Tuesday,10:00 - 11:00,General Consultation,Branch 3,10,227
+6/8/2025,Wednesday,10:00 - 11:00,Cardiology,Branch 3,1,118
+12/4/2026,Sunday,16:00 - 17:00,Lab Services,Branch 1,11,175
+18/4/2026,Saturday,11:00 - 12:00,Dermatology,Branch 2,0,66
+18/3/2026,Wednesday,11:00 - 12:00,Obstetrics & Gynecology,Branch 3,11,235
+25/6/2025,Wednesday,10:00 - 11:00,Pediatrics,Branch 3,15,259
+23/2/2026,Monday,08:00 - 09:00,Orthopedics,Branch 3,6,191
+23/3/2026,Monday,08:00 - 09:00,Pediatrics,Branch 3,0,115
+19/7/2025,Saturday,15:00 - 16:00,Obstetrics & Gynecology,Branch 2,2,71
+31/7/2025,Thursday,15:00 - 16:00,Pediatrics,Branch 2,10,164
+23/4/2026,Thursday,13:00 - 14:00,Minor Procedures,Branch 3,10,253
+24/9/2025,Wednesday,11:00 - 12:00,Pediatrics,Branch 1,8,167
+27/3/2026,Friday,15:00 - 16:00,Dermatology,Branch 3,4,157
+18/3/2026,Wednesday,09:00 - 10:00,Minor Procedures,Branch 3,5,182
+10/4/2026,Friday,11:00 - 12:00,Lab Services,Branch 1,13,202
+26/4/2025,Saturday,13:00 - 14:00,Orthopedics,Branch 1,3,128
+6/7/2025,Sunday,13:00 - 14:00,General Consultation,Branch 3,0,126
+10/6/2025,Tuesday,11:00 - 12:00,General Consultation,Branch 3,12,226
+31/10/2025,Friday,11:00 - 12:00,Pediatrics,Branch 1,9,166
+1/3/2026,Sunday,15:00 - 16:00,Cardiology,Branch 3,8,199
+13/10/2025,Monday,14:00 - 15:00,Minor Procedures,Branch 3,3,172
+3/4/2026,Friday,14:00 - 15:00,Dermatology,Branch 1,2,104
+20/6/2025,Friday,13:00 - 14:00,Obstetrics & Gynecology,Branch 2,4,87
+13/7/2025,Sunday,11:00 - 12:00,Dermatology,Branch 3,13,260
+24/5/2025,Saturday,14:00 - 15:00,Cardiology,Branch 3,4,164
+11/12/2025,Thursday,08:00 - 09:00,Obstetrics & Gynecology,Branch 1,6,139
+30/10/2025,Thursday,13:00 - 14:00,Dermatology,Branch 2,14,185
+3/5/2025,Saturday,08:00 - 09:00,Minor Procedures,Branch 3,14,289
+14/2/2026,Saturday,15:00 - 16:00,Pediatrics,Branch 3,3,148
+12/2/2026,Thursday,13:00 - 14:00,Obstetrics & Gynecology,Branch 3,6,186
+13/2/2026,Friday,14:00 - 15:00,Pediatrics,Branch 1,4,137
+5/7/2025,Saturday,13:00 - 14:00,General Consultation,Branch 2,3,102
+13/1/2026,Tuesday,14:00 - 15:00,Pediatrics,Branch 3,15,265
+27/1/2026,Tuesday,13:00 - 14:00,Obstetrics & Gynecology,Branch 2,7,116
+10/9/2025,Wednesday,14:00 - 15:00,Dermatology,Branch 3,6,183
+11/4/2026,Saturday,09:00 - 10:00,Lab Services,Branch 3,14,239
+14/1/2026,Wednesday,16:00 - 17:00,Minor Procedures,Branch 3,11,263
+25/5/2025,Sunday,09:00 - 10:00,Minor Procedures,Branch 2,8,161
+6/12/2025,Saturday,13:00 - 14:00,Orthopedics,Branch 1,10,182
+30/11/2025,Sunday,08:00 - 09:00,Dermatology,Branch 3,3,136
+28/6/2025,Saturday,14:00 - 15:00,Pediatrics,Branch 1,14,238
+25/2/2026,Wednesday,08:00 - 09:00,Orthopedics,Branch 2,0,60
+3/1/2026,Saturday,11:00 - 12:00,General Consultation,Branch 2,4,92
+13/4/2026,Monday,09:00 - 10:00,Minor Procedures,Branch 2,4,113
+4/5/2025,Sunday,09:00 - 10:00,Obstetrics & Gynecology,Branch 1,9,187
+29/1/2026,Thursday,08:00 - 09:00,Obstetrics & Gynecology,Branch 2,0,56
+7/11/2025,Friday,14:00 - 15:00,Pediatrics,Branch 2,14,214
+23/5/2025,Friday,15:00 - 16:00,Lab Services,Branch 3,1,121
+21/1/2026,Wednesday,10:00 - 11:00,Pediatrics,Branch 3,8,208
+13/3/2026,Friday,10:00 - 11:00,General Consultation,Branch 3,15,282
+30/9/2025,Tuesday,09:00 - 10:00,Cardiology,Branch 2,13,189
+24/6/2025,Tuesday,16:00 - 17:00,Minor Procedures,Branch 2,8,170
+21/11/2025,Friday,10:00 - 11:00,Orthopedics,Branch 3,13,243
+7/12/2025,Sunday,08:00 - 09:00,Obstetrics & Gynecology,Branch 3,4,165
+4/9/2025,Thursday,15:00 - 16:00,Obstetrics & Gynecology,Branch 1,8,185
+30/4/2025,Wednesday,15:00 - 16:00,Dermatology,Branch 3,10,215
+22/8/2025,Friday,15:00 - 16:00,Pediatrics,Branch 1,3,124
+5/10/2025,Sunday,10:00 - 11:00,Obstetrics & Gynecology,Branch 3,6,181
+23/5/2025,Friday,15:00 - 16:00,Minor Procedures,Branch 2,8,162
+1/4/2026,Wednesday,10:00 - 11:00,Pediatrics,Branch 2,1,83
+3/5/2025,Saturday,11:00 - 12:00,Pediatrics,Branch 1,14,232
+1/11/2025,Saturday,16:00 - 17:00,Cardiology,Branch 1,1,95
+25/9/2025,Thursday,10:00 - 11:00,Lab Services,Branch 3,14,248
+24/12/2025,Wednesday,08:00 - 09:00,Dermatology,Branch 3,10,216
+17/5/2025,Saturday,13:00 - 14:00,Minor Procedures,Branch 3,11,242
+12/1/2026,Monday,15:00 - 16:00,Cardiology,Branch 1,5,145
+9/5/2025,Friday,13:00 - 14:00,Obstetrics & Gynecology,Branch 2,9,150
+7/3/2026,Saturday,11:00 - 12:00,Obstetrics & Gynecology,Branch 1,8,170
+22/10/2025,Wednesday,10:00 - 11:00,Orthopedics,Branch 2,15,206
+1/9/2025,Monday,16:00 - 17:00,Minor Procedures,Branch 1,0,105
+28/7/2025,Monday,14:00 - 15:00,Dermatology,Branch 3,11,222
+7/3/2026,Saturday,15:00 - 16:00,Cardiology,Branch 2,5,100
+29/8/2025,Friday,11:00 - 12:00,Orthopedics,Branch 1,0,94
+22/11/2025,Saturday,09:00 - 10:00,Minor Procedures,Branch 2,0,95
+4/1/2026,Sunday,09:00 - 10:00,Dermatology,Branch 3,3,142
+16/3/2026,Monday,08:00 - 09:00,Cardiology,Branch 3,8,201
+11/4/2026,Saturday,16:00 - 17:00,General Consultation,Branch 1,15,228
+26/7/2025,Saturday,09:00 - 10:00,Lab Services,Branch 2,0,47
+30/10/2025,Thursday,14:00 - 15:00,Cardiology,Branch 2,10,164
+2/10/2025,Thursday,16:00 - 17:00,Lab Services,Branch 3,13,233
+23/3/2026,Monday,09:00 - 10:00,Orthopedics,Branch 2,12,192
+5/5/2025,Monday,15:00 - 16:00,General Consultation,Branch 1,4,145
+18/7/2025,Friday,14:00 - 15:00,Orthopedics,Branch 3,6,186
+16/12/2025,Tuesday,11:00 - 12:00,Minor Procedures,Branch 3,12,276
+23/7/2025,Wednesday,13:00 - 14:00,Pediatrics,Branch 2,14,215
+21/5/2025,Wednesday,16:00 - 17:00,General Consultation,Branch 1,1,87
+4/4/2026,Saturday,10:00 - 11:00,Cardiology,Branch 3,5,157
+26/4/2025,Saturday,09:00 - 10:00,Lab Services,Branch 1,10,163
+13/9/2025,Saturday,13:00 - 14:00,General Consultation,Branch 1,5,130
+3/2/2026,Tuesday,15:00 - 16:00,Minor Procedures,Branch 3,10,258
+11/4/2026,Saturday,08:00 - 09:00,Obstetrics & Gynecology,Branch 1,13,214
+3/10/2025,Friday,16:00 - 17:00,Cardiology,Branch 1,2,103
+15/10/2025,Wednesday,16:00 - 17:00,Lab Services,Branch 1,4,126
+7/5/2025,Wednesday,15:00 - 16:00,General Consultation,Branch 2,4,93
+31/12/2025,Wednesday,16:00 - 17:00,Orthopedics,Branch 2,9,137
+9/5/2025,Friday,11:00 - 12:00,Cardiology,Branch 1,0,78
+16/8/2025,Saturday,15:00 - 16:00,Minor Procedures,Branch 3,14,287
+14/2/2026,Saturday,16:00 - 17:00,Pediatrics,Branch 1,9,176
+2/12/2025,Tuesday,09:00 - 10:00,Dermatology,Branch 1,6,160
+11/12/2025,Thursday,13:00 - 14:00,Orthopedics,Branch 2,8,129
+13/6/2025,Friday,16:00 - 17:00,Lab Services,Branch 2,11,163
+30/1/2026,Friday,16:00 - 17:00,Pediatrics,Branch 1,0,84
+7/1/2026,Wednesday,14:00 - 15:00,Dermatology,Branch 3,13,241
+17/3/2026,Tuesday,08:00 - 09:00,Pediatrics,Branch 3,8,189
+20/6/2025,Friday,15:00 - 16:00,Obstetrics & Gynecology,Branch 2,10,174
+7/4/2026,Tuesday,10:00 - 11:00,Dermatology,Branch 3,15,281
+27/12/2025,Saturday,15:00 - 16:00,Minor Procedures,Branch 2,10,188
+20/5/2025,Tuesday,09:00 - 10:00,Cardiology,Branch 1,12,202
+25/3/2026,Wednesday,11:00 - 12:00,Cardiology,Branch 3,1,138
+1/9/2025,Monday,11:00 - 12:00,Orthopedics,Branch 1,14,224
+1/7/2025,Tuesday,16:00 - 17:00,Dermatology,Branch 1,15,254
+5/11/2025,Wednesday,10:00 - 11:00,Cardiology,Branch 3,1,124
+10/10/2025,Friday,14:00 - 15:00,General Consultation,Branch 1,12,206
+26/7/2025,Saturday,14:00 - 15:00,General Consultation,Branch 2,14,200
+9/4/2026,Thursday,10:00 - 11:00,Cardiology,Branch 3,0,121
+27/10/2025,Monday,14:00 - 15:00,General Consultation,Branch 1,3,113
+22/5/2025,Thursday,10:00 - 11:00,Obstetrics & Gynecology,Branch 1,13,225
+15/6/2025,Sunday,11:00 - 12:00,General Consultation,Branch 1,2,100
+18/1/2026,Sunday,08:00 - 09:00,Lab Services,Branch 1,12,204
+15/3/2026,Sunday,14:00 - 15:00,Lab Services,Branch 3,8,174
+10/9/2025,Wednesday,14:00 - 15:00,Lab Services,Branch 3,13,229
+9/4/2026,Thursday,10:00 - 11:00,Dermatology,Branch 3,11,245
+30/1/2026,Friday,13:00 - 14:00,Orthopedics,Branch 3,1,115
+16/8/2025,Saturday,10:00 - 11:00,General Consultation,Branch 2,0,65
+26/11/2025,Wednesday,10:00 - 11:00,Dermatology,Branch 2,12,175
+3/12/2025,Wednesday,14:00 - 15:00,Orthopedics,Branch 2,13,201
+26/11/2025,Wednesday,08:00 - 09:00,General Consultation,Branch 2,3,94
+19/1/2026,Monday,15:00 - 16:00,Lab Services,Branch 3,15,248
+20/3/2026,Friday,13:00 - 14:00,Pediatrics,Branch 1,0,85
+6/3/2026,Friday,09:00 - 10:00,Orthopedics,Branch 1,14,231
+20/3/2026,Friday,15:00 - 16:00,Obstetrics & Gynecology,Branch 1,8,172
+1/9/2025,Monday,10:00 - 11:00,Pediatrics,Branch 3,9,217
+16/8/2025,Saturday,13:00 - 14:00,Lab Services,Branch 2,1,44
+31/5/2025,Saturday,14:00 - 15:00,Obstetrics & Gynecology,Branch 1,6,161
+14/5/2025,Wednesday,13:00 - 14:00,Orthopedics,Branch 2,8,144
+8/12/2025,Monday,14:00 - 15:00,Pediatrics,Branch 1,10,192
+27/10/2025,Monday,11:00 - 12:00,Obstetrics & Gynecology,Branch 2,3,87
+26/10/2025,Sunday,15:00 - 16:00,Lab Services,Branch 1,8,145
+25/3/2026,Wednesday,08:00 - 09:00,Minor Procedures,Branch 2,5,124
+23/7/2025,Wednesday,16:00 - 17:00,Pediatrics,Branch 1,10,185
+1/10/2025,Wednesday,10:00 - 11:00,Orthopedics,Branch 2,6,107
+29/7/2025,Tuesday,16:00 - 17:00,Orthopedics,Branch 2,11,156
+20/8/2025,Wednesday,16:00 - 17:00,Orthopedics,Branch 2,3,82
+24/1/2026,Saturday,16:00 - 17:00,Dermatology,Branch 3,3,157
+4/9/2025,Thursday,16:00 - 17:00,Cardiology,Branch 2,10,162
+19/9/2025,Friday,10:00 - 11:00,Pediatrics,Branch 3,13,265
+20/6/2025,Friday,16:00 - 17:00,Dermatology,Branch 3,6,178
+1/5/2025,Thursday,11:00 - 12:00,Dermatology,Branch 3,4,175
+8/10/2025,Wednesday,13:00 - 14:00,Minor Procedures,Branch 2,15,228
+6/8/2025,Wednesday,08:00 - 09:00,Orthopedics,Branch 1,4,135
+27/8/2025,Wednesday,16:00 - 17:00,Obstetrics & Gynecology,Branch 1,14,217
+15/4/2026,Wednesday,16:00 - 17:00,Dermatology,Branch 1,5,142
+10/12/2025,Wednesday,10:00 - 11:00,Lab Services,Branch 1,3,116
+5/3/2026,Thursday,16:00 - 17:00,Lab Services,Branch 1,2,108
+22/11/2025,Saturday,15:00 - 16:00,Orthopedics,Branch 3,12,229
+31/7/2025,Thursday,11:00 - 12:00,Obstetrics & Gynecology,Branch 1,6,157
+10/7/2025,Thursday,10:00 - 11:00,Obstetrics & Gynecology,Branch 3,3,161
+16/11/2025,Sunday,13:00 - 14:00,Cardiology,Branch 2,0,56
+27/2/2026,Friday,09:00 - 10:00,Pediatrics,Branch 2,15,225
+22/2/2026,Sunday,11:00 - 12:00,General Consultation,Branch 2,14,204
+31/12/2025,Wednesday,09:00 - 10:00,Dermatology,Branch 3,1,120
+21/2/2026,Saturday,11:00 - 12:00,Minor Procedures,Branch 2,8,162
+2/4/2026,Thursday,13:00 - 14:00,General Consultation,Branch 1,10,204
+8/3/2026,Sunday,16:00 - 17:00,Cardiology,Branch 2,2,68
+19/1/2026,Monday,11:00 - 12:00,Dermatology,Branch 3,2,125
+9/1/2026,Friday,10:00 - 11:00,Cardiology,Branch 3,15,260
+18/7/2025,Friday,14:00 - 15:00,Dermatology,Branch 3,10,230
+5/9/2025,Friday,10:00 - 11:00,Cardiology,Branch 3,3,163
+7/1/2026,Wednesday,08:00 - 09:00,Dermatology,Branch 2,5,113
+12/6/2025,Thursday,08:00 - 09:00,Pediatrics,Branch 3,15,280
+28/4/2025,Monday,14:00 - 15:00,Minor Procedures,Branch 3,10,232
+21/12/2025,Sunday,16:00 - 17:00,Pediatrics,Branch 3,2,153
+7/3/2026,Saturday,16:00 - 17:00,Orthopedics,Branch 3,15,273
+5/5/2025,Monday,11:00 - 12:00,General Consultation,Branch 1,15,232
+19/3/2026,Thursday,09:00 - 10:00,Dermatology,Branch 2,9,142
+28/10/2025,Tuesday,08:00 - 09:00,Orthopedics,Branch 1,8,168
+10/2/2026,Tuesday,09:00 - 10:00,Obstetrics & Gynecology,Branch 1,10,184
+29/5/2025,Thursday,13:00 - 14:00,Orthopedics,Branch 2,9,146
+31/12/2025,Wednesday,14:00 - 15:00,Minor Procedures,Branch 3,2,151
+25/12/2025,Thursday,15:00 - 16:00,Pediatrics,Branch 2,9,144
+14/1/2026,Wednesday,16:00 - 17:00,Cardiology,Branch 3,13,265
+8/12/2025,Monday,15:00 - 16:00,Cardiology,Branch 1,6,149
+12/1/2026,Monday,08:00 - 09:00,Pediatrics,Branch 1,10,183
+25/12/2025,Thursday,14:00 - 15:00,Lab Services,Branch 1,12,192
+25/3/2026,Wednesday,10:00 - 11:00,Minor Procedures,Branch 1,12,235
+13/7/2025,Sunday,15:00 - 16:00,Minor Procedures,Branch 2,10,183
+28/11/2025,Friday,15:00 - 16:00,Lab Services,Branch 1,8,146
+25/5/2025,Sunday,08:00 - 09:00,Lab Services,Branch 2,5,83
+17/12/2025,Wednesday,08:00 - 09:00,Obstetrics & Gynecology,Branch 2,3,75
+23/8/2025,Saturday,11:00 - 12:00,Obstetrics & Gynecology,Branch 3,9,216
+28/10/2025,Tuesday,15:00 - 16:00,Cardiology,Branch 2,13,190
+29/3/2026,Sunday,15:00 - 16:00,Minor Procedures,Branch 2,12,200
+18/9/2025,Thursday,10:00 - 11:00,Lab Services,Branch 3,9,207
+21/12/2025,Sunday,13:00 - 14:00,General Consultation,Branch 2,10,167
+31/3/2026,Tuesday,16:00 - 17:00,Lab Services,Branch 1,1,77
+19/10/2025,Sunday,16:00 - 17:00,Lab Services,Branch 3,8,183
+12/5/2025,Monday,11:00 - 12:00,General Consultation,Branch 2,15,223
+5/11/2025,Wednesday,08:00 - 09:00,Cardiology,Branch 3,9,203
+30/9/2025,Tuesday,13:00 - 14:00,Minor Procedures,Branch 1,9,192
+2/5/2025,Friday,11:00 - 12:00,Pediatrics,Branch 3,4,149
+26/9/2025,Friday,08:00 - 09:00,Pediatrics,Branch 1,5,133
+7/8/2025,Thursday,15:00 - 16:00,Dermatology,Branch 2,3,102
+6/12/2025,Saturday,10:00 - 11:00,Dermatology,Branch 1,8,175
+17/8/2025,Sunday,08:00 - 09:00,Orthopedics,Branch 1,15,234
+8/8/2025,Friday,13:00 - 14:00,General Consultation,Branch 2,13,185
+27/6/2025,Friday,11:00 - 12:00,Pediatrics,Branch 1,6,156
+6/3/2026,Friday,16:00 - 17:00,Pediatrics,Branch 1,9,176
+2/2/2026,Monday,14:00 - 15:00,General Consultation,Branch 3,9,215
+10/9/2025,Wednesday,16:00 - 17:00,Dermatology,Branch 2,4,109
+16/2/2026,Monday,08:00 - 09:00,Lab Services,Branch 2,1,54
+11/5/2025,Sunday,11:00 - 12:00,Lab Services,Branch 2,5,91
+18/6/2025,Wednesday,08:00 - 09:00,Dermatology,Branch 3,11,238
+6/9/2025,Saturday,13:00 - 14:00,Obstetrics & Gynecology,Branch 1,4,140
+19/11/2025,Wednesday,14:00 - 15:00,Lab Services,Branch 2,1,60
+17/10/2025,Friday,14:00 - 15:00,General Consultation,Branch 3,13,263
+21/3/2026,Saturday,16:00 - 17:00,Obstetrics & Gynecology,Branch 2,14,204
+2/5/2025,Friday,15:00 - 16:00,Orthopedics,Branch 1,5,150
+22/4/2026,Wednesday,13:00 - 14:00,Obstetrics & Gynecology,Branch 3,2,154
+4/10/2025,Saturday,13:00 - 14:00,Lab Services,Branch 1,3,96
+4/5/2025,Sunday,16:00 - 17:00,Cardiology,Branch 3,15,268
+26/11/2025,Wednesday,16:00 - 17:00,Minor Procedures,Branch 1,12,244
+13/8/2025,Wednesday,13:00 - 14:00,Orthopedics,Branch 1,5,132
+8/6/2025,Sunday,14:00 - 15:00,Orthopedics,Branch 1,8,156
+11/6/2025,Wednesday,14:00 - 15:00,Minor Procedures,Branch 2,12,212
+18/12/2025,Thursday,13:00 - 14:00,Orthopedics,Branch 2,14,204
+11/9/2025,Thursday,11:00 - 12:00,Minor Procedures,Branch 1,10,205
+4/6/2025,Wednesday,15:00 - 16:00,Cardiology,Branch 3,14,272
+22/9/2025,Monday,09:00 - 10:00,Cardiology,Branch 1,9,189
+15/7/2025,Tuesday,11:00 - 12:00,Minor Procedures,Branch 3,12,255
+30/6/2025,Monday,14:00 - 15:00,Dermatology,Branch 2,3,103
+20/5/2025,Tuesday,13:00 - 14:00,Cardiology,Branch 3,6,180
+28/2/2026,Saturday,14:00 - 15:00,Pediatrics,Branch 1,15,245
+16/5/2025,Friday,09:00 - 10:00,Obstetrics & Gynecology,Branch 3,8,198
+8/6/2025,Sunday,08:00 - 09:00,Orthopedics,Branch 1,8,156
+15/10/2025,Wednesday,09:00 - 10:00,Cardiology,Branch 3,5,173
+31/7/2025,Thursday,08:00 - 09:00,Minor Procedures,Branch 1,8,187
+13/12/2025,Saturday,14:00 - 15:00,Orthopedics,Branch 2,10,169
+2/6/2025,Monday,16:00 - 17:00,General Consultation,Branch 2,9,156
+31/10/2025,Friday,14:00 - 15:00,Minor Procedures,Branch 1,2,134
+14/11/2025,Friday,16:00 - 17:00,Pediatrics,Branch 2,0,62
+12/8/2025,Tuesday,14:00 - 15:00,Dermatology,Branch 3,15,263
+9/11/2025,Sunday,11:00 - 12:00,Lab Services,Branch 1,3,111
+14/3/2026,Saturday,16:00 - 17:00,Orthopedics,Branch 2,15,207
+2/10/2025,Thursday,08:00 - 09:00,Lab Services,Branch 1,7,154
+2/5/2025,Friday,09:00 - 10:00,Minor Procedures,Branch 2,4,114
+1/8/2025,Friday,13:00 - 14:00,General Consultation,Branch 2,4,97
+17/7/2025,Thursday,14:00 - 15:00,Obstetrics & Gynecology,Branch 3,7,193
+23/8/2025,Saturday,16:00 - 17:00,Lab Services,Branch 2,10,153
+15/9/2025,Monday,10:00 - 11:00,Minor Procedures,Branch 1,11,236
+11/5/2025,Sunday,11:00 - 12:00,Dermatology,Branch 2,2,95
+11/11/2025,Tuesday,13:00 - 14:00,General Consultation,Branch 1,9,192
+1/8/2025,Friday,13:00 - 14:00,Orthopedics,Branch 1,13,225
+3/4/2026,Friday,14:00 - 15:00,Minor Procedures,Branch 3,10,253
+17/6/2025,Tuesday,09:00 - 10:00,Lab Services,Branch 3,0,105
+24/9/2025,Wednesday,13:00 - 14:00,Dermatology,Branch 3,1,127
+16/12/2025,Tuesday,14:00 - 15:00,Orthopedics,Branch 1,6,153
+9/12/2025,Tuesday,16:00 - 17:00,Lab Services,Branch 3,8,170
+16/1/2026,Friday,14:00 - 15:00,General Consultation,Branch 2,14,205
+2/5/2025,Friday,11:00 - 12:00,Pediatrics,Branch 2,14,207
+21/1/2026,Wednesday,10:00 - 11:00,Dermatology,Branch 1,5,140
+29/5/2025,Thursday,16:00 - 17:00,Minor Procedures,Branch 1,15,269
+22/8/2025,Friday,14:00 - 15:00,Minor Procedures,Branch 3,11,248
+26/9/2025,Friday,13:00 - 14:00,Orthopedics,Branch 1,12,216
+1/8/2025,Friday,11:00 - 12:00,Minor Procedures,Branch 2,10,193
+24/3/2026,Tuesday,14:00 - 15:00,Pediatrics,Branch 1,15,232
+14/3/2026,Saturday,16:00 - 17:00,Dermatology,Branch 1,7,159
+27/3/2026,Friday,08:00 - 09:00,Dermatology,Branch 3,7,205
+2/3/2026,Monday,14:00 - 15:00,Dermatology,Branch 3,2,149
+13/9/2025,Saturday,11:00 - 12:00,General Consultation,Branch 1,13,230
+13/2/2026,Friday,11:00 - 12:00,Obstetrics & Gynecology,Branch 2,12,166
+30/3/2026,Monday,08:00 - 09:00,Lab Services,Branch 2,8,131
+26/8/2025,Tuesday,13:00 - 14:00,Orthopedics,Branch 2,10,172
+7/11/2025,Friday,10:00 - 11:00,Pediatrics,Branch 3,13,244
+3/6/2025,Tuesday,15:00 - 16:00,Orthopedics,Branch 3,13,250
+5/5/2025,Monday,15:00 - 16:00,Obstetrics & Gynecology,Branch 3,8,213
+1/4/2026,Wednesday,10:00 - 11:00,Cardiology,Branch 1,13,210
+28/6/2025,Saturday,14:00 - 15:00,General Consultation,Branch 1,5,146
+11/5/2025,Sunday,10:00 - 11:00,General Consultation,Branch 3,0,120
+12/8/2025,Tuesday,09:00 - 10:00,Orthopedics,Branch 3,11,220
+13/2/2026,Friday,11:00 - 12:00,Minor Procedures,Branch 2,9,170
+13/1/2026,Tuesday,13:00 - 14:00,Minor Procedures,Branch 3,10,257
+23/3/2026,Monday,09:00 - 10:00,General Consultation,Branch 3,0,114
+16/9/2025,Tuesday,16:00 - 17:00,Pediatrics,Branch 2,10,169
+10/7/2025,Thursday,14:00 - 15:00,Orthopedics,Branch 1,6,151
+21/12/2025,Sunday,14:00 - 15:00,Obstetrics & Gynecology,Branch 1,4,141
+11/5/2025,Sunday,10:00 - 11:00,Minor Procedures,Branch 3,7,224
+9/6/2025,Monday,11:00 - 12:00,Dermatology,Branch 3,3,162
+13/8/2025,Wednesday,11:00 - 12:00,Lab Services,Branch 1,14,213
+20/8/2025,Wednesday,09:00 - 10:00,Dermatology,Branch 1,15,243
+23/11/2025,Sunday,13:00 - 14:00,Orthopedics,Branch 1,13,210
+7/9/2025,Sunday,13:00 - 14:00,Lab Services,Branch 1,8,166
+9/12/2025,Tuesday,08:00 - 09:00,Orthopedics,Branch 2,0,63
+10/12/2025,Wednesday,15:00 - 16:00,Dermatology,Branch 3,15,272
+24/12/2025,Wednesday,09:00 - 10:00,Cardiology,Branch 3,10,231
+13/4/2026,Monday,10:00 - 11:00,General Consultation,Branch 3,5,158
+2/4/2026,Thursday,10:00 - 11:00,Orthopedics,Branch 3,8,192
+14/3/2026,Saturday,09:00 - 10:00,Pediatrics,Branch 1,11,186
+13/10/2025,Monday,13:00 - 14:00,General Consultation,Branch 1,11,193
+12/7/2025,Saturday,09:00 - 10:00,General Consultation,Branch 3,6,186
+26/1/2026,Monday,14:00 - 15:00,Pediatrics,Branch 1,5,139
+17/3/2026,Tuesday,09:00 - 10:00,Dermatology,Branch 1,2,124
+24/12/2025,Wednesday,16:00 - 17:00,Orthopedics,Branch 2,1,56
+12/9/2025,Friday,15:00 - 16:00,Cardiology,Branch 3,9,204
+9/8/2025,Saturday,11:00 - 12:00,Cardiology,Branch 3,8,205
+14/12/2025,Sunday,14:00 - 15:00,Obstetrics & Gynecology,Branch 3,14,256
+3/5/2025,Saturday,11:00 - 12:00,Dermatology,Branch 2,0,53
+14/3/2026,Saturday,08:00 - 09:00,Dermatology,Branch 1,1,98
+17/9/2025,Wednesday,14:00 - 15:00,Cardiology,Branch 3,5,185
+13/5/2025,Tuesday,10:00 - 11:00,Minor Procedures,Branch 2,15,228
+27/3/2026,Friday,15:00 - 16:00,Cardiology,Branch 2,8,144
+22/11/2025,Saturday,10:00 - 11:00,Dermatology,Branch 3,8,205
+23/6/2025,Monday,14:00 - 15:00,Orthopedics,Branch 3,13,253
+22/2/2026,Sunday,11:00 - 12:00,General Consultation,Branch 2,13,199
+16/7/2025,Wednesday,11:00 - 12:00,Minor Procedures,Branch 1,15,252
+4/7/2025,Friday,11:00 - 12:00,General Consultation,Branch 2,6,108
+28/1/2026,Wednesday,14:00 - 15:00,General Consultation,Branch 2,4,109
+24/1/2026,Saturday,15:00 - 16:00,Obstetrics & Gynecology,Branch 1,6,140
+3/8/2025,Sunday,13:00 - 14:00,Dermatology,Branch 3,12,236
+31/7/2025,Thursday,10:00 - 11:00,Minor Procedures,Branch 1,13,238
+28/4/2025,Monday,09:00 - 10:00,Cardiology,Branch 3,15,268
+30/9/2025,Tuesday,08:00 - 09:00,Minor Procedures,Branch 3,14,296
+10/9/2025,Wednesday,11:00 - 12:00,Dermatology,Branch 1,3,118
+7/9/2025,Sunday,11:00 - 12:00,Obstetrics & Gynecology,Branch 2,8,149
+16/4/2026,Thursday,15:00 - 16:00,Orthopedics,Branch 3,14,246
+26/9/2025,Friday,16:00 - 17:00,Minor Procedures,Branch 3,10,242
+3/1/2026,Saturday,15:00 - 16:00,Obstetrics & Gynecology,Branch 2,0,58
+5/1/2026,Monday,14:00 - 15:00,Pediatrics,Branch 2,14,206
+3/2/2026,Tuesday,16:00 - 17:00,Dermatology,Branch 2,8,148
+8/3/2026,Sunday,09:00 - 10:00,Orthopedics,Branch 1,3,109
+7/9/2025,Sunday,11:00 - 12:00,Pediatrics,Branch 2,15,217
+9/5/2025,Friday,15:00 - 16:00,Obstetrics & Gynecology,Branch 2,11,167
+4/7/2025,Friday,10:00 - 11:00,Dermatology,Branch 2,7,134
+6/1/2026,Tuesday,13:00 - 14:00,Obstetrics & Gynecology,Branch 1,7,164
+26/8/2025,Tuesday,13:00 - 14:00,Obstetrics & Gynecology,Branch 3,10,232
+7/12/2025,Sunday,15:00 - 16:00,General Consultation,Branch 2,0,66
+27/8/2025,Wednesday,08:00 - 09:00,General Consultation,Branch 2,0,53
+13/7/2025,Sunday,13:00 - 14:00,Pediatrics,Branch 2,10,160
+16/11/2025,Sunday,10:00 - 11:00,Minor Procedures,Branch 3,15,302
+17/10/2025,Friday,11:00 - 12:00,Lab Services,Branch 2,3,72
+15/1/2026,Thursday,14:00 - 15:00,General Consultation,Branch 1,5,139
+4/7/2025,Friday,10:00 - 11:00,General Consultation,Branch 1,6,154
+20/3/2026,Friday,09:00 - 10:00,Orthopedics,Branch 1,8,168
+2/9/2025,Tuesday,15:00 - 16:00,Dermatology,Branch 1,15,252
+23/8/2025,Saturday,08:00 - 09:00,Orthopedics,Branch 3,7,184
+3/4/2026,Friday,14:00 - 15:00,Minor Procedures,Branch 1,15,269
+18/9/2025,Thursday,14:00 - 15:00,Obstetrics & Gynecology,Branch 2,13,183
+5/6/2025,Thursday,11:00 - 12:00,Cardiology,Branch 3,15,274
+12/8/2025,Tuesday,10:00 - 11:00,General Consultation,Branch 1,9,187
+28/8/2025,Thursday,09:00 - 10:00,Cardiology,Branch 1,5,141
+13/10/2025,Monday,15:00 - 16:00,General Consultation,Branch 3,4,159
+25/2/2026,Wednesday,16:00 - 17:00,Dermatology,Branch 2,11,165
+31/12/2025,Wednesday,11:00 - 12:00,Cardiology,Branch 3,14,259
+15/1/2026,Thursday,11:00 - 12:00,Lab Services,Branch 1,3,111
+25/1/2026,Sunday,15:00 - 16:00,General Consultation,Branch 1,11,196
+18/5/2025,Sunday,16:00 - 17:00,Lab Services,Branch 1,4,123
+24/12/2025,Wednesday,15:00 - 16:00,Cardiology,Branch 2,14,194
+30/6/2025,Monday,16:00 - 17:00,Obstetrics & Gynecology,Branch 2,14,205
+28/1/2026,Wednesday,08:00 - 09:00,Cardiology,Branch 2,4,105
+22/8/2025,Friday,16:00 - 17:00,Orthopedics,Branch 1,7,160
+18/6/2025,Wednesday,16:00 - 17:00,Minor Procedures,Branch 2,1,109
+11/5/2025,Sunday,08:00 - 09:00,Dermatology,Branch 3,11,244
+9/7/2025,Wednesday,10:00 - 11:00,Obstetrics & Gynecology,Branch 1,1,93
+26/5/2025,Monday,11:00 - 12:00,Pediatrics,Branch 1,6,145
+15/2/2026,Sunday,11:00 - 12:00,Pediatrics,Branch 2,6,128
+9/7/2025,Wednesday,11:00 - 12:00,Orthopedics,Branch 3,7,204
+22/6/2025,Sunday,08:00 - 09:00,General Consultation,Branch 3,11,234
+27/3/2026,Friday,08:00 - 09:00,Dermatology,Branch 3,3,138
+8/11/2025,Saturday,09:00 - 10:00,General Consultation,Branch 2,8,130
+3/10/2025,Friday,14:00 - 15:00,Lab Services,Branch 1,14,207
+23/9/2025,Tuesday,16:00 - 17:00,Dermatology,Branch 3,3,159
+4/7/2025,Friday,09:00 - 10:00,Cardiology,Branch 3,3,137
+13/2/2026,Friday,11:00 - 12:00,Cardiology,Branch 2,13,179
+20/3/2026,Friday,09:00 - 10:00,Orthopedics,Branch 1,2,107
+29/10/2025,Wednesday,13:00 - 14:00,Minor Procedures,Branch 1,2,120
+2/9/2025,Tuesday,16:00 - 17:00,Obstetrics & Gynecology,Branch 2,4,106
+21/4/2026,Tuesday,11:00 - 12:00,Pediatrics,Branch 2,6,115
+18/10/2025,Saturday,10:00 - 11:00,Obstetrics & Gynecology,Branch 2,9,148
+26/7/2025,Saturday,14:00 - 15:00,Cardiology,Branch 3,2,125
+24/2/2026,Tuesday,11:00 - 12:00,Dermatology,Branch 1,3,114
+29/9/2025,Monday,11:00 - 12:00,Lab Services,Branch 2,10,141
+2/9/2025,Tuesday,11:00 - 12:00,Cardiology,Branch 2,3,92
+10/11/2025,Monday,13:00 - 14:00,Obstetrics & Gynecology,Branch 2,8,136
+24/8/2025,Sunday,14:00 - 15:00,Obstetrics & Gynecology,Branch 2,0,73
+10/11/2025,Monday,11:00 - 12:00,Lab Services,Branch 2,4,94
+7/2/2026,Saturday,08:00 - 09:00,Lab Services,Branch 2,4,81
+19/12/2025,Friday,14:00 - 15:00,General Consultation,Branch 2,2,68
+24/12/2025,Wednesday,16:00 - 17:00,Orthopedics,Branch 3,1,130
+1/10/2025,Wednesday,09:00 - 10:00,Pediatrics,Branch 2,12,192
+26/11/2025,Wednesday,08:00 - 09:00,Minor Procedures,Branch 3,14,290
+31/3/2026,Tuesday,11:00 - 12:00,Pediatrics,Branch 2,3,92
+13/5/2025,Tuesday,15:00 - 16:00,General Consultation,Branch 2,2,75
+17/5/2025,Saturday,15:00 - 16:00,Cardiology,Branch 1,5,141
+10/1/2026,Saturday,10:00 - 11:00,Minor Procedures,Branch 1,11,230
+7/4/2026,Tuesday,10:00 - 11:00,Orthopedics,Branch 2,6,110
+13/4/2026,Monday,16:00 - 17:00,Cardiology,Branch 2,14,212
+12/3/2026,Thursday,08:00 - 09:00,Minor Procedures,Branch 2,14,226
+23/7/2025,Wednesday,13:00 - 14:00,Pediatrics,Branch 3,10,208
+28/7/2025,Monday,15:00 - 16:00,Orthopedics,Branch 2,3,94
+18/9/2025,Thursday,14:00 - 15:00,Cardiology,Branch 1,12,211
+18/5/2025,Sunday,13:00 - 14:00,Pediatrics,Branch 2,4,96
+7/8/2025,Thursday,09:00 - 10:00,Cardiology,Branch 1,11,213
+19/5/2025,Monday,15:00 - 16:00,Orthopedics,Branch 3,0,118
+5/11/2025,Wednesday,16:00 - 17:00,Dermatology,Branch 3,5,181
+27/8/2025,Wednesday,16:00 - 17:00,General Consultation,Branch 2,6,118
+25/7/2025,Friday,11:00 - 12:00,Cardiology,Branch 2,2,78
+12/2/2026,Thursday,13:00 - 14:00,Cardiology,Branch 3,0,122
+29/3/2026,Sunday,09:00 - 10:00,Obstetrics & Gynecology,Branch 3,12,249
+10/7/2025,Thursday,10:00 - 11:00,Cardiology,Branch 2,2,86
+2/10/2025,Thursday,16:00 - 17:00,Obstetrics & Gynecology,Branch 2,9,161
+8/2/2026,Sunday,16:00 - 17:00,Lab Services,Branch 3,6,174
+27/7/2025,Sunday,09:00 - 10:00,Cardiology,Branch 2,2,68
+16/2/2026,Monday,09:00 - 10:00,Minor Procedures,Branch 1,9,215
+13/2/2026,Friday,10:00 - 11:00,General Consultation,Branch 3,2,153
+18/3/2026,Wednesday,13:00 - 14:00,Pediatrics,Branch 2,5,117
+1/3/2026,Sunday,11:00 - 12:00,Lab Services,Branch 2,7,112
+19/7/2025,Saturday,16:00 - 17:00,Cardiology,Branch 2,5,123
+9/8/2025,Saturday,14:00 - 15:00,Lab Services,Branch 1,8,141
+1/6/2025,Sunday,09:00 - 10:00,Obstetrics & Gynecology,Branch 1,8,175
+1/10/2025,Wednesday,15:00 - 16:00,Orthopedics,Branch 2,4,112
+25/10/2025,Saturday,08:00 - 09:00,Pediatrics,Branch 1,4,143
+2/10/2025,Thursday,15:00 - 16:00,Pediatrics,Branch 2,7,139
+14/5/2025,Wednesday,08:00 - 09:00,Cardiology,Branch 3,1,140
+17/10/2025,Friday,10:00 - 11:00,Lab Services,Branch 1,14,223
+14/1/2026,Wednesday,10:00 - 11:00,Orthopedics,Branch 1,8,182
+8/9/2025,Monday,13:00 - 14:00,Pediatrics,Branch 3,2,131
+4/2/2026,Wednesday,09:00 - 10:00,Obstetrics & Gynecology,Branch 2,11,165
+27/2/2026,Friday,08:00 - 09:00,Dermatology,Branch 1,2,111
+25/6/2025,Wednesday,08:00 - 09:00,Obstetrics & Gynecology,Branch 3,11,224
+7/4/2026,Tuesday,14:00 - 15:00,Lab Services,Branch 2,8,134
+10/2/2026,Tuesday,13:00 - 14:00,Orthopedics,Branch 2,5,122
+31/3/2026,Tuesday,09:00 - 10:00,Orthopedics,Branch 2,6,126
+23/5/2025,Friday,14:00 - 15:00,Cardiology,Branch 3,14,265
+30/4/2025,Wednesday,08:00 - 09:00,Orthopedics,Branch 2,2,81
+22/3/2026,Sunday,11:00 - 12:00,Orthopedics,Branch 2,5,125
+19/3/2026,Thursday,11:00 - 12:00,Obstetrics & Gynecology,Branch 3,10,224
+29/9/2025,Monday,10:00 - 11:00,Lab Services,Branch 3,6,172
+10/8/2025,Sunday,14:00 - 15:00,General Consultation,Branch 2,15,204
+26/4/2025,Saturday,10:00 - 11:00,Cardiology,Branch 3,3,136
+12/5/2025,Monday,14:00 - 15:00,Pediatrics,Branch 3,3,158
+22/4/2026,Wednesday,11:00 - 12:00,Cardiology,Branch 2,12,171
+25/2/2026,Wednesday,16:00 - 17:00,Lab Services,Branch 1,15,229
+26/3/2026,Thursday,16:00 - 17:00,Pediatrics,Branch 2,0,74
+22/1/2026,Thursday,11:00 - 12:00,Lab Services,Branch 1,10,173
+14/12/2025,Sunday,11:00 - 12:00,Dermatology,Branch 3,0,123
+31/10/2025,Friday,15:00 - 16:00,Minor Procedures,Branch 1,5,173
+31/3/2026,Tuesday,11:00 - 12:00,Obstetrics & Gynecology,Branch 3,6,191
+19/4/2026,Sunday,09:00 - 10:00,Dermatology,Branch 2,7,137
+24/7/2025,Thursday,14:00 - 15:00,Dermatology,Branch 2,15,219
+24/3/2026,Tuesday,09:00 - 10:00,Dermatology,Branch 2,4,86
+23/8/2025,Saturday,09:00 - 10:00,Minor Procedures,Branch 3,15,309
+4/12/2025,Thursday,16:00 - 17:00,Minor Procedures,Branch 1,8,204
+31/8/2025,Sunday,09:00 - 10:00,Lab Services,Branch 3,14,251
+21/1/2026,Wednesday,15:00 - 16:00,Dermatology,Branch 3,15,285
+26/1/2026,Monday,09:00 - 10:00,General Consultation,Branch 3,11,220
+1/3/2026,Sunday,11:00 - 12:00,Lab Services,Branch 3,14,255
+10/6/2025,Tuesday,11:00 - 12:00,Obstetrics & Gynecology,Branch 2,13,198
+7/1/2026,Wednesday,08:00 - 09:00,Lab Services,Branch 1,11,183
+23/1/2026,Friday,16:00 - 17:00,Obstetrics & Gynecology,Branch 2,10,162
+22/9/2025,Monday,14:00 - 15:00,Obstetrics & Gynecology,Branch 3,14,275
+2/2/2026,Monday,08:00 - 09:00,Lab Services,Branch 2,14,180
+18/5/2025,Sunday,15:00 - 16:00,Cardiology,Branch 1,6,152
+15/1/2026,Thursday,13:00 - 14:00,Orthopedics,Branch 1,6,162
+14/11/2025,Friday,10:00 - 11:00,Pediatrics,Branch 2,2,78
+19/2/2026,Thursday,09:00 - 10:00,Lab Services,Branch 3,8,197
+25/10/2025,Saturday,08:00 - 09:00,General Consultation,Branch 2,11,162
+14/2/2026,Saturday,11:00 - 12:00,Orthopedics,Branch 2,13,199
+21/12/2025,Sunday,09:00 - 10:00,General Consultation,Branch 3,1,118
+25/10/2025,Saturday,15:00 - 16:00,General Consultation,Branch 2,4,95
+22/8/2025,Friday,16:00 - 17:00,Dermatology,Branch 3,14,261
+29/8/2025,Friday,13:00 - 14:00,Minor Procedures,Branch 1,14,269
+14/7/2025,Monday,15:00 - 16:00,Obstetrics & Gynecology,Branch 2,12,166
+19/12/2025,Friday,13:00 - 14:00,Obstetrics & Gynecology,Branch 2,7,142
+15/8/2025,Friday,10:00 - 11:00,Orthopedics,Branch 1,12,222
+2/7/2025,Wednesday,08:00 - 09:00,Pediatrics,Branch 2,6,105
+9/2/2026,Monday,09:00 - 10:00,Orthopedics,Branch 2,2,67
+4/4/2026,Saturday,10:00 - 11:00,Cardiology,Branch 2,1,71
+15/12/2025,Monday,16:00 - 17:00,Cardiology,Branch 2,13,178
+29/8/2025,Friday,09:00 - 10:00,Minor Procedures,Branch 1,14,259
+12/11/2025,Wednesday,15:00 - 16:00,General Consultation,Branch 2,7,133
+3/8/2025,Sunday,09:00 - 10:00,Cardiology,Branch 3,12,243
+16/7/2025,Wednesday,13:00 - 14:00,General Consultation,Branch 1,1,95
+5/1/2026,Monday,09:00 - 10:00,Obstetrics & Gynecology,Branch 3,3,138
+10/8/2025,Sunday,15:00 - 16:00,Lab Services,Branch 1,13,209
+19/4/2026,Sunday,14:00 - 15:00,Pediatrics,Branch 1,13,217
+18/9/2025,Thursday,10:00 - 11:00,General Consultation,Branch 2,2,80
+4/4/2026,Saturday,15:00 - 16:00,Orthopedics,Branch 2,10,163
+28/8/2025,Thursday,13:00 - 14:00,Obstetrics & Gynecology,Branch 1,2,100
+25/2/2026,Wednesday,16:00 - 17:00,Orthopedics,Branch 3,1,119
+6/11/2025,Thursday,08:00 - 09:00,Lab Services,Branch 2,10,144
+23/11/2025,Sunday,15:00 - 16:00,Orthopedics,Branch 3,12,242
+22/12/2025,Monday,15:00 - 16:00,Minor Procedures,Branch 2,9,164
+4/8/2025,Monday,15:00 - 16:00,Cardiology,Branch 1,12,200
+26/9/2025,Friday,08:00 - 09:00,Obstetrics & Gynecology,Branch 3,4,148
+1/1/2026,Thursday,14:00 - 15:00,Minor Procedures,Branch 3,3,181
+27/7/2025,Sunday,15:00 - 16:00,Orthopedics,Branch 2,13,183
+15/10/2025,Wednesday,08:00 - 09:00,Minor Procedures,Branch 3,5,187
+12/1/2026,Monday,09:00 - 10:00,Minor Procedures,Branch 2,11,194
+30/5/2025,Friday,09:00 - 10:00,General Consultation,Branch 3,7,192
+14/12/2025,Sunday,08:00 - 09:00,Pediatrics,Branch 1,6,154
+10/4/2026,Friday,16:00 - 17:00,Orthopedics,Branch 3,5,161
+25/1/2026,Sunday,11:00 - 12:00,Lab Services,Branch 1,15,228
+11/4/2026,Saturday,16:00 - 17:00,Pediatrics,Branch 1,15,227
+30/7/2025,Wednesday,16:00 - 17:00,Cardiology,Branch 1,12,214
+25/4/2025,Friday,16:00 - 17:00,Dermatology,Branch 2,6,112
+30/1/2026,Friday,13:00 - 14:00,Dermatology,Branch 2,13,177
+12/5/2025,Monday,11:00 - 12:00,Orthopedics,Branch 3,15,284
+3/12/2025,Wednesday,11:00 - 12:00,Cardiology,Branch 1,11,193
+4/12/2025,Thursday,08:00 - 09:00,Cardiology,Branch 2,1,73
+20/12/2025,Saturday,16:00 - 17:00,Orthopedics,Branch 3,1,142
+17/5/2025,Saturday,14:00 - 15:00,Minor Procedures,Branch 1,1,120
+23/4/2026,Thursday,09:00 - 10:00,Cardiology,Branch 2,5,117
+22/10/2025,Wednesday,13:00 - 14:00,Orthopedics,Branch 3,14,271
+25/12/2025,Thursday,09:00 - 10:00,Dermatology,Branch 2,6,111
+11/9/2025,Thursday,15:00 - 16:00,Pediatrics,Branch 2,10,169
+25/5/2025,Sunday,13:00 - 14:00,Cardiology,Branch 2,1,63
+8/4/2026,Wednesday,15:00 - 16:00,Obstetrics & Gynecology,Branch 3,13,258
+25/5/2025,Sunday,10:00 - 11:00,Cardiology,Branch 1,12,218
+8/3/2026,Sunday,08:00 - 09:00,Orthopedics,Branch 2,11,159
+6/5/2025,Tuesday,09:00 - 10:00,Dermatology,Branch 2,12,182
+1/11/2025,Saturday,15:00 - 16:00,Orthopedics,Branch 3,15,265
+5/9/2025,Friday,10:00 - 11:00,Minor Procedures,Branch 2,13,212
+26/7/2025,Saturday,08:00 - 09:00,Obstetrics & Gynecology,Branch 1,1,86
+26/8/2025,Tuesday,11:00 - 12:00,Obstetrics & Gynecology,Branch 2,9,160
+10/1/2026,Saturday,15:00 - 16:00,Orthopedics,Branch 3,9,212
+4/6/2025,Wednesday,11:00 - 12:00,Lab Services,Branch 2,12,167
+10/4/2026,Friday,11:00 - 12:00,Cardiology,Branch 1,5,136
+26/1/2026,Monday,11:00 - 12:00,General Consultation,Branch 2,9,145
+9/11/2025,Sunday,15:00 - 16:00,Pediatrics,Branch 3,14,250
+11/8/2025,Monday,13:00 - 14:00,Orthopedics,Branch 2,7,144
+14/10/2025,Tuesday,16:00 - 17:00,Obstetrics & Gynecology,Branch 3,11,243
+23/8/2025,Saturday,09:00 - 10:00,Lab Services,Branch 2,10,144
+24/9/2025,Wednesday,16:00 - 17:00,Obstetrics & Gynecology,Branch 2,15,215
+6/2/2026,Friday,14:00 - 15:00,Obstetrics & Gynecology,Branch 3,10,209
+16/1/2026,Friday,16:00 - 17:00,Orthopedics,Branch 1,1,99
+1/6/2025,Sunday,13:00 - 14:00,Pediatrics,Branch 1,2,104
+5/3/2026,Thursday,16:00 - 17:00,Orthopedics,Branch 3,1,121
+5/3/2026,Thursday,09:00 - 10:00,Lab Services,Branch 2,1,48
+22/9/2025,Monday,15:00 - 16:00,General Consultation,Branch 3,11,230
+6/11/2025,Thursday,10:00 - 11:00,Minor Procedures,Branch 3,15,282
+22/7/2025,Tuesday,09:00 - 10:00,Pediatrics,Branch 3,5,162
+12/11/2025,Wednesday,15:00 - 16:00,Cardiology,Branch 1,10,205
+17/7/2025,Thursday,08:00 - 09:00,General Consultation,Branch 3,13,263
+20/2/2026,Friday,09:00 - 10:00,Dermatology,Branch 3,3,161
+19/7/2025,Saturday,09:00 - 10:00,Pediatrics,Branch 3,9,205
+24/5/2025,Saturday,13:00 - 14:00,Orthopedics,Branch 3,8,202
+30/5/2025,Friday,09:00 - 10:00,General Consultation,Branch 1,11,185
+10/1/2026,Saturday,16:00 - 17:00,Cardiology,Branch 1,7,160
+12/5/2025,Monday,10:00 - 11:00,Orthopedics,Branch 1,2,96
+12/10/2025,Sunday,09:00 - 10:00,Lab Services,Branch 3,3,135
+12/6/2025,Thursday,10:00 - 11:00,Lab Services,Branch 2,8,112
+23/9/2025,Tuesday,15:00 - 16:00,Orthopedics,Branch 3,10,205
+10/4/2026,Friday,10:00 - 11:00,Minor Procedures,Branch 1,1,137
+2/9/2025,Tuesday,16:00 - 17:00,Orthopedics,Branch 1,4,127
+4/4/2026,Saturday,08:00 - 09:00,Lab Services,Branch 2,8,116
+15/12/2025,Monday,15:00 - 16:00,Orthopedics,Branch 3,6,184
+8/11/2025,Saturday,08:00 - 09:00,Dermatology,Branch 1,13,229
+8/10/2025,Wednesday,16:00 - 17:00,Dermatology,Branch 1,14,232
+15/6/2025,Sunday,08:00 - 09:00,Cardiology,Branch 1,10,195
+13/7/2025,Sunday,14:00 - 15:00,Cardiology,Branch 3,5,166
+9/9/2025,Tuesday,14:00 - 15:00,Pediatrics,Branch 1,8,184
+7/9/2025,Sunday,08:00 - 09:00,Lab Services,Branch 1,7,146
+31/5/2025,Saturday,14:00 - 15:00,General Consultation,Branch 3,1,133
+20/3/2026,Friday,08:00 - 09:00,Orthopedics,Branch 3,3,140
+26/10/2025,Sunday,08:00 - 09:00,Cardiology,Branch 2,0,52
+11/6/2025,Wednesday,13:00 - 14:00,Cardiology,Branch 1,8,156
+30/1/2026,Friday,11:00 - 12:00,Lab Services,Branch 3,3,149
+15/8/2025,Friday,11:00 - 12:00,Obstetrics & Gynecology,Branch 2,7,126
+19/12/2025,Friday,13:00 - 14:00,Lab Services,Branch 3,8,183
+12/11/2025,Wednesday,14:00 - 15:00,Dermatology,Branch 3,15,278
+29/10/2025,Wednesday,16:00 - 17:00,Orthopedics,Branch 1,12,198
+13/9/2025,Saturday,10:00 - 11:00,Lab Services,Branch 2,4,94
+15/4/2026,Wednesday,10:00 - 11:00,General Consultation,Branch 2,0,54
+15/3/2026,Sunday,16:00 - 17:00,General Consultation,Branch 1,11,196
+3/11/2025,Monday,09:00 - 10:00,Dermatology,Branch 3,7,204
+21/10/2025,Tuesday,08:00 - 09:00,Orthopedics,Branch 3,8,202
+12/9/2025,Friday,09:00 - 10:00,General Consultation,Branch 2,13,177
+2/11/2025,Sunday,10:00 - 11:00,Pediatrics,Branch 3,8,185
+22/8/2025,Friday,15:00 - 16:00,Cardiology,Branch 2,2,84
+28/12/2025,Sunday,14:00 - 15:00,Minor Procedures,Branch 2,13,214
+16/8/2025,Saturday,09:00 - 10:00,Cardiology,Branch 1,5,150
+25/5/2025,Sunday,13:00 - 14:00,Minor Procedures,Branch 2,3,104
+1/12/2025,Monday,09:00 - 10:00,Pediatrics,Branch 2,12,186
+11/11/2025,Tuesday,09:00 - 10:00,Obstetrics & Gynecology,Branch 3,6,171
+23/1/2026,Friday,16:00 - 17:00,Orthopedics,Branch 3,1,141
+23/2/2026,Monday,08:00 - 09:00,Lab Services,Branch 1,4,126
+1/6/2025,Sunday,09:00 - 10:00,Pediatrics,Branch 1,0,89
+8/6/2025,Sunday,11:00 - 12:00,Cardiology,Branch 2,0,47
+24/5/2025,Saturday,08:00 - 09:00,Obstetrics & Gynecology,Branch 2,12,177
+14/7/2025,Monday,10:00 - 11:00,Orthopedics,Branch 1,11,193
+25/11/2025,Tuesday,15:00 - 16:00,Obstetrics & Gynecology,Branch 3,11,242
+13/3/2026,Friday,14:00 - 15:00,Obstetrics & Gynecology,Branch 2,12,170
+20/2/2026,Friday,11:00 - 12:00,Cardiology,Branch 3,5,176
+26/5/2025,Monday,08:00 - 09:00,General Consultation,Branch 2,6,117
+23/2/2026,Monday,11:00 - 12:00,Lab Services,Branch 3,11,201
+26/1/2026,Monday,13:00 - 14:00,General Consultation,Branch 1,1,108
+20/6/2025,Friday,11:00 - 12:00,Lab Services,Branch 1,3,107
+19/11/2025,Wednesday,14:00 - 15:00,Minor Procedures,Branch 2,14,224
+22/2/2026,Sunday,08:00 - 09:00,Cardiology,Branch 3,8,201
+19/4/2026,Sunday,16:00 - 17:00,General Consultation,Branch 2,14,213
+9/8/2025,Saturday,13:00 - 14:00,General Consultation,Branch 1,4,123
+21/3/2026,Saturday,08:00 - 09:00,Minor Procedures,Branch 3,14,275
+15/11/2025,Saturday,11:00 - 12:00,Minor Procedures,Branch 3,15,288
+7/6/2025,Saturday,11:00 - 12:00,Lab Services,Branch 1,12,203
+17/2/2026,Tuesday,15:00 - 16:00,Lab Services,Branch 3,13,224
+17/2/2026,Tuesday,16:00 - 17:00,Obstetrics & Gynecology,Branch 1,3,106
+28/10/2025,Tuesday,11:00 - 12:00,Lab Services,Branch 2,11,156
+8/1/2026,Thursday,13:00 - 14:00,Pediatrics,Branch 1,9,184
+20/11/2025,Thursday,08:00 - 09:00,Minor Procedures,Branch 1,7,196
+23/10/2025,Thursday,15:00 - 16:00,Orthopedics,Branch 1,12,204
+18/1/2026,Sunday,09:00 - 10:00,Pediatrics,Branch 3,12,250
+26/4/2025,Saturday,09:00 - 10:00,General Consultation,Branch 2,8,146
+11/9/2025,Thursday,15:00 - 16:00,Lab Services,Branch 3,11,220
+2/5/2025,Friday,15:00 - 16:00,General Consultation,Branch 1,7,163
+30/3/2026,Monday,16:00 - 17:00,Obstetrics & Gynecology,Branch 3,14,265
+3/2/2026,Tuesday,08:00 - 09:00,Cardiology,Branch 2,2,88
+6/11/2025,Thursday,08:00 - 09:00,Pediatrics,Branch 1,4,121
+19/1/2026,Monday,08:00 - 09:00,Orthopedics,Branch 2,8,147
+17/12/2025,Wednesday,09:00 - 10:00,Orthopedics,Branch 3,12,225
+10/9/2025,Wednesday,09:00 - 10:00,Lab Services,Branch 3,1,115
+22/4/2026,Wednesday,15:00 - 16:00,Cardiology,Branch 3,7,192
+4/1/2026,Sunday,13:00 - 14:00,General Consultation,Branch 1,13,227
+29/5/2025,Thursday,14:00 - 15:00,Orthopedics,Branch 3,0,127
+15/3/2026,Sunday,09:00 - 10:00,Cardiology,Branch 3,6,171
+13/4/2026,Monday,08:00 - 09:00,Cardiology,Branch 3,10,231
+24/8/2025,Sunday,08:00 - 09:00,General Consultation,Branch 1,6,153
+14/1/2026,Wednesday,16:00 - 17:00,General Consultation,Branch 1,13,229
+24/10/2025,Friday,14:00 - 15:00,General Consultation,Branch 3,9,215
+24/10/2025,Friday,09:00 - 10:00,Orthopedics,Branch 2,10,158
+5/7/2025,Saturday,11:00 - 12:00,Pediatrics,Branch 2,2,82
+23/7/2025,Wednesday,15:00 - 16:00,Obstetrics & Gynecology,Branch 1,12,212
+30/10/2025,Thursday,15:00 - 16:00,Orthopedics,Branch 2,13,195
+16/12/2025,Tuesday,14:00 - 15:00,Obstetrics & Gynecology,Branch 1,8,160
+9/1/2026,Friday,09:00 - 10:00,General Consultation,Branch 2,14,201
+5/11/2025,Wednesday,13:00 - 14:00,Minor Procedures,Branch 3,14,294
+12/3/2026,Thursday,15:00 - 16:00,General Consultation,Branch 2,0,74
+19/4/2026,Sunday,11:00 - 12:00,Orthopedics,Branch 3,0,134
+19/4/2026,Sunday,10:00 - 11:00,Orthopedics,Branch 1,10,191
+18/3/2026,Wednesday,08:00 - 09:00,Dermatology,Branch 1,11,202
+26/8/2025,Tuesday,14:00 - 15:00,Obstetrics & Gynecology,Branch 1,10,203
+27/2/2026,Friday,15:00 - 16:00,Obstetrics & Gynecology,Branch 3,6,176
+24/1/2026,Saturday,16:00 - 17:00,Dermatology,Branch 3,12,229
+26/8/2025,Tuesday,15:00 - 16:00,Cardiology,Branch 2,11,177
+17/9/2025,Wednesday,14:00 - 15:00,Obstetrics & Gynecology,Branch 3,14,262
+9/11/2025,Sunday,11:00 - 12:00,Dermatology,Branch 1,11,187
+14/9/2025,Sunday,08:00 - 09:00,Lab Services,Branch 3,8,192
+3/1/2026,Saturday,11:00 - 12:00,Obstetrics & Gynecology,Branch 3,5,166
+13/6/2025,Friday,16:00 - 17:00,Pediatrics,Branch 1,0,103
+20/8/2025,Wednesday,10:00 - 11:00,Minor Procedures,Branch 1,0,124
+4/4/2026,Saturday,16:00 - 17:00,General Consultation,Branch 3,10,217
+18/5/2025,Sunday,15:00 - 16:00,Minor Procedures,Branch 2,4,135
+29/11/2025,Saturday,15:00 - 16:00,Cardiology,Branch 1,3,133
+16/12/2025,Tuesday,16:00 - 17:00,Obstetrics & Gynecology,Branch 2,13,182
+26/2/2026,Thursday,08:00 - 09:00,Minor Procedures,Branch 3,5,193
+9/5/2025,Friday,08:00 - 09:00,Orthopedics,Branch 1,2,110
+17/10/2025,Friday,13:00 - 14:00,General Consultation,Branch 3,6,176
+23/12/2025,Tuesday,16:00 - 17:00,Dermatology,Branch 1,7,161
+29/3/2026,Sunday,14:00 - 15:00,Dermatology,Branch 1,3,132
+19/2/2026,Thursday,10:00 - 11:00,Cardiology,Branch 1,2,103
+6/10/2025,Monday,16:00 - 17:00,Dermatology,Branch 3,1,136
+13/12/2025,Saturday,10:00 - 11:00,Orthopedics,Branch 2,6,110
+22/10/2025,Wednesday,13:00 - 14:00,Cardiology,Branch 1,11,211
+23/12/2025,Tuesday,14:00 - 15:00,Obstetrics & Gynecology,Branch 2,3,85
+2/2/2026,Monday,14:00 - 15:00,Obstetrics & Gynecology,Branch 3,6,183
+20/5/2025,Tuesday,09:00 - 10:00,Dermatology,Branch 3,0,130
+13/7/2025,Sunday,16:00 - 17:00,General Consultation,Branch 3,5,183
+10/6/2025,Tuesday,15:00 - 16:00,Cardiology,Branch 3,11,224
+21/9/2025,Sunday,09:00 - 10:00,Minor Procedures,Branch 1,5,169
+16/11/2025,Sunday,14:00 - 15:00,Orthopedics,Branch 2,7,124
+14/6/2025,Saturday,15:00 - 16:00,Obstetrics & Gynecology,Branch 2,3,79
+6/6/2025,Friday,16:00 - 17:00,Pediatrics,Branch 1,11,204
+5/4/2026,Sunday,16:00 - 17:00,Obstetrics & Gynecology,Branch 2,12,183
+15/5/2025,Thursday,08:00 - 09:00,Cardiology,Branch 1,9,191
+19/7/2025,Saturday,15:00 - 16:00,General Consultation,Branch 1,9,168
+7/7/2025,Monday,15:00 - 16:00,Dermatology,Branch 3,11,227
+5/9/2025,Friday,13:00 - 14:00,Minor Procedures,Branch 1,0,128
+5/8/2025,Tuesday,16:00 - 17:00,Orthopedics,Branch 2,12,189
+10/12/2025,Wednesday,16:00 - 17:00,Cardiology,Branch 3,6,193
+3/5/2025,Saturday,09:00 - 10:00,Orthopedics,Branch 3,0,135
+27/8/2025,Wednesday,14:00 - 15:00,Pediatrics,Branch 3,2,141
+9/9/2025,Tuesday,15:00 - 16:00,Cardiology,Branch 2,6,123
+18/7/2025,Friday,14:00 - 15:00,Cardiology,Branch 1,7,155
+6/4/2026,Monday,14:00 - 15:00,Pediatrics,Branch 2,13,203
+15/6/2025,Sunday,09:00 - 10:00,Lab Services,Branch 2,15,190
+17/1/2026,Saturday,08:00 - 09:00,Orthopedics,Branch 3,6,194
+17/10/2025,Friday,14:00 - 15:00,Minor Procedures,Branch 3,8,231
+19/3/2026,Thursday,15:00 - 16:00,Orthopedics,Branch 3,0,112
+6/7/2025,Sunday,16:00 - 17:00,Cardiology,Branch 2,12,181
